@@ -1,6 +1,7 @@
 # Godot-Export
 
-Fedora Linux
+#Fedora Linux
+
 sudo dnf install java-17-openjdk android-tools adb 
 
 # path /usr/lib/jvm/java-17-openjdk
